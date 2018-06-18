@@ -1,0 +1,4 @@
+-main example.Main
+-js static/js/app.js
+-debug
+-cp src
